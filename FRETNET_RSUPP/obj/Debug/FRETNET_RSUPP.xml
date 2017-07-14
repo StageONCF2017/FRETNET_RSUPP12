@@ -1,0 +1,236 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+FRETNET_RSUPP
+</name>
+</assembly>
+<members>
+<member name="F:FRETNET_RSUPP.OpenAuthProviders.providersList">
+	<résumé>
+Contrôle providersList.
+</résumé>
+	<remarques>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarques>
+</member><member name="F:FRETNET_RSUPP.RegisterExternalLogin.providerMessage">
+	<summary>
+Contrôle providerMessage.
+</summary>
+	<remarks>
+Auto-generated field.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.RegisterExternalLogin.userNameForm">
+	<summary>
+Contrôle userNameForm.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.RegisterExternalLogin.userName">
+	<summary>
+Contrôle userName.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.RegisterExternalLogin.userNameMessage">
+	<summary>
+Contrôle userNameMessage.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Login.RegisterHyperLink">
+	<summary>
+Contrôle RegisterHyperLink.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Login.OpenAuthLogin">
+	<summary>
+Contrôle OpenAuthLogin.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Manage.successMessage">
+	<summary>
+Contrôle successMessage.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Manage.setPassword">
+	<summary>
+Contrôle setPassword.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Manage.password">
+	<summary>
+Contrôle password.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Manage.newPasswordMessage">
+	<summary>
+Contrôle newPasswordMessage.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Manage.confirmPassword">
+	<summary>
+Contrôle confirmPassword.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Manage.changePassword">
+	<summary>
+Contrôle changePassword.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Manage.externalLoginsList">
+	<summary>
+Contrôle externalLoginsList.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Register.RegisterUser">
+	<summary>
+Contrôle RegisterUser.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Register.RegisterUserWizardStep">
+	<summary>
+Contrôle RegisterUserWizardStep.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="P:FRETNET_RSUPP.My.MyWebExtension.Computer">
+	<summary>
+ Retourne les informations relatives à l'ordinateur hôte.
+ </summary>
+</member><member name="P:FRETNET_RSUPP.My.MyWebExtension.User">
+	<summary>
+ Retourne des informations pour l'utilisateur Web actuel.
+ </summary>
+</member><member name="P:FRETNET_RSUPP.My.MyWebExtension.Request">
+	<summary>
+ Retourne l'objet Request.
+ </summary>
+</member><member name="P:FRETNET_RSUPP.My.MyWebExtension.Response">
+	<summary>
+ Retourne l'objet Response.
+ </summary>
+</member><member name="P:FRETNET_RSUPP.My.MyWebExtension.Log">
+	<summary>
+ Retourne l'objet de journal Asp.
+ </summary>
+</member><member name="T:FRETNET_RSUPP.My.MyWebExtension">
+	<summary>
+ Module utilisé pour définir les propriétés qui sont disponibles dans My Namespace pour les projets Web.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:FRETNET_RSUPP.SiteMaster.HeadContent">
+	<summary>
+Contrôle HeadContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.SiteMaster.FeaturedContent">
+	<summary>
+Contrôle FeaturedContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.SiteMaster.MainContent">
+	<summary>
+Contrôle MainContent.
+</summary>
+	<remarks>
+Champ généré automatiquement.
+Pour modifier, déplacez la déclaration de champ du fichier de concepteur dans le fichier code-behind.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Site_Mobile.Head1">
+	<summary>
+Head1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Site_Mobile.HeadContent">
+	<summary>
+HeadContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Site_Mobile.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Site_Mobile.FeaturedContent">
+	<summary>
+FeaturedContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Site_Mobile.MainContent">
+	<summary>
+MainContent control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:FRETNET_RSUPP.Site_Mobile.ViewSwitcher1">
+	<summary>
+ViewSwitcher1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
